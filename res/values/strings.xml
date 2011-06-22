@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android_google_translate</string>
+    <string name="from_text"></string>
+    <string name="original_hint"></string>
+    <string name="to_text"></string>
+    <string name="translated_hint"></string>
+    <string name="back_text"></string>
+    <string name="empty"></string>
+    <string name="translating">TRANSLATING...</string>
+    <string name="translation_error">ERROR</string>
+</resources>
