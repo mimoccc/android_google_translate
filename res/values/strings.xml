@@ -8,6 +8,6 @@
     <string name="empty"></string>
     <string name="translating">Translating...</string>
     <string name="translation_error">(Translation error)</string>
-    <string name="translation_interrupted">(Translation interrupted)
-    </string>
+    <string name="translation_interrupted">(Translation interrupted)</string>
+    <string name="translated_hint"></string>
 </resources>
