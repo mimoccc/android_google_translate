@@ -11,7 +11,15 @@ public class TranslateTask implements Runnable {
     private final Translate translate;
     private final String origin, from, to;
 
-    public void run() {
-        //To change body of implemented methods use File | Settings | File Templates.
+    public TranslateTask(Translate translate, String original, String from, String to) {
+        this.translate = translate;
+        this.origin = original;
+        this.from = from;
+        this.to = to;
     }
+
+    public void run() {
+
+    }
+
 }
