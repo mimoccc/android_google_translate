@@ -6,7 +6,6 @@ package com.bgh;
  * Time: 下午10:35
  */
 public class TranslateTask implements Runnable {
-
     private static final String TAG = "TranslateTask";
     private final Translate translate;
     private final String origin, from, to;
@@ -21,5 +20,4 @@ public class TranslateTask implements Runnable {
     public void run() {
 
     }
-
 }
